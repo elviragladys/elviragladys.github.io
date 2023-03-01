@@ -1,0 +1,36 @@
+body{
+    background-color: #fff5e7;
+    font-size: smaller;
+}
+header{
+    background-color: #A0855C;
+    padding: 1px;
+    
+}
+h1{
+    color: #5c482a;
+    
+}
+h2 {
+    color: #5c482a;
+    background-color: #c4ac87;
+    margin-top: 1;
+}
+a{
+    color: black;
+    margin-right:5px;
+}
+.left-col {
+    margin-right: 5%;
+    width: 45%;
+    float: left;
+}
+.right-col {
+
+    width: 50%;
+    float: left;
+}
+
+footer{
+    color: #302210;
+}

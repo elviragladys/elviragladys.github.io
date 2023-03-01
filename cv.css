@@ -1,0 +1,28 @@
+body{
+    background-color: #fff9f0;
+    margin:50px;
+
+}
+header{
+    background-color: #A0855C;
+	padding: 20px;
+}
+h1{
+    color: #5c482a;
+}
+
+#section{
+    border:3px;
+}
+
+h2{
+    color: #5c482a;
+}
+a{
+    color: black;
+    margin-right:5px;
+}
+
+.active{
+    color: orange;
+}
